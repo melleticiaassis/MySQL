@@ -41,4 +41,4 @@ Este repositório acompanha minha jornada de aprendizado em Banco de Dados, reun
 **Instituição:** Fatec  
 **Área de estudo:** Banco de Dados | SQL | MySQL
 
-**Desenvolvido por:** Mel Letícia .Assis
+**Desenvolvido por:** Mel Letícia. Assis
